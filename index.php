@@ -1,6 +1,4 @@
 <?php
-echo "test";
-die();
 /**
  * Application entry point
  *
